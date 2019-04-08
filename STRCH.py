@@ -1,3 +1,5 @@
+## https://www.codechef.com/APRIL19B/problems/STRCH
+
 t = int(input())
 ans = []
 
